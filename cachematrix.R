@@ -1,6 +1,6 @@
 ## Assignment: Programming Assignment 2: Lexical Scoping
 ## written by Chunhui Chen
-## SHA-1 hash identifier : 
+## SHA-1 hash identifier : 11b1acb14ea3d4a35412f4ae3c584aa8acfd8995
 
 ## This function creates a special "matrix" object that can cache its inverse
 
